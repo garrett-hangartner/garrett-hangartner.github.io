@@ -1,9 +1,9 @@
 # garrett-hangartner.github.io
 <html>
   <head>
-    Favorite Places I Have Visited
+    <H1>Favorite Places I Have Visited</h1>
   </head>
   <body>
-    <H1>One of my favorite places that I have ever been to is</h1> 
+    One of my favorite places that I have ever been to is 
   </body>
  
