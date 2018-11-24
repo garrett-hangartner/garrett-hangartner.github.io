@@ -3,8 +3,7 @@
   <head>
     Favorite Places I Have Visited
   </head>
- 
-   <body>
+  <body>
     One of my favorite places that I have ever been to is 
-   </body>
+  </body>
  
