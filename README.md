@@ -15,4 +15,20 @@
   <body>
     The last place that I would consider to be one of my favorite places that I have ever visited is Hilton Head Island.  I grew up going to Hilton Head after my family purchased a house on the island.  I spent the entire summer there as a kid up until I was about 10 or 11.  After that I still made frequent trips there with my friends and family if our schedueles allowed it.  These days I manage to get to the island once or twice a year with friends and enjoy everything the island has to offer.  Chilling on the beach, swimming in the ocean, and eating good food take up most of my time spent on the island.  I'm not one to sit around at the beach so I like to dig holes or swim to keep me occupied.  Then during the nights I like to go to some of my favorite restaurants like Truffles or Crazy Crab.  Then after dinners I always like to make my way to my favorite ice cream place: Cinnamon Bear.  The memories I have made on Hilton Head make it one of my favorite places that I have ever visited and plan to keep visiting.
  </body>
- 
+ <table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td> 
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td> 
+    <td>94</td>
+  </tr>
+</table>
