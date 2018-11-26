@@ -1,5 +1,6 @@
 # garrett-hangartner.github.io
 <html>
+
 <style type="text/css">
 
 P {font-family:Cursive}
@@ -9,7 +10,35 @@ P {border-style:double;}
 P {text-indent: 50px;}
 
 BODY {background-color:red
+
+  -webkit-animation: mymove 5s infinite; /* Chrome, Safari, Opera */
+
+    animation: mymove 5s infinite;}
+
+	/* Chrome, Safari, Opera */
+
+@-webkit-keyframes mymove {
+
+    from {background-color: red;}
+
+    to {background-color: white
+
+
+
+/* Standard syntax */
+
+@keyframes mymove {
+
+    from {background-color: red;}
+
+    to {background-color: white
+
+H1 {font-family:arial}
+
+Img {border-style:solid}
+
 </style>
+
   <head>
     <H1>Favorite Places I Have Visited</h1>
   </head>
