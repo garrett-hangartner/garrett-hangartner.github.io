@@ -1,8 +1,7 @@
 # garrett-hangartner.github.io
 <html>
-  <STYLE type= "text/css">
 <H1>Favorite Places I Have Visited</h1> 
-    h1 {color:green;}
+    h1 {color: green;}
   </head>
   </STYLE>
   <a href="#my_anchor">All-Time Favorite Place</a>
