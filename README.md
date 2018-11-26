@@ -19,9 +19,9 @@
  </body>
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Places Visited</th>
+    <th>Things To Do</th> 
+    <th>Number of Times Visited</th>
   </tr>
   <tr>
     <td>Jill</td>
