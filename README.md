@@ -9,7 +9,7 @@ P {border-style:double;}
 P {text-indent: 50px;}
 
 BODY {background-color:red
-<style>
+</style>
   <head>
     <H1>Favorite Places I Have Visited</h1>
   </head>
