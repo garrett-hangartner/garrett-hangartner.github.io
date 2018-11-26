@@ -13,11 +13,17 @@
   </body>
   <img src="http://www.sandypointresorts.com/wp-content/uploads/2014/09/The-Great-Blue-Hole-in-Belize-1200x800.jpg">
   <body>
+    <head>
+      <H3>Belize</h3>
+    </head>
     <p>Another place that I visited that was truly amazing was Belize.  I have been to Belize the last two summers and both times I've gone I've been truly amazed by the beauty of the country and its people.  In Belize I stayed on two different islands way out in the middle of the ocean far away from the metropolitan area of Belize.  I stayed so far out in order to better my chances of finding what I went to the country for: fish.  Belize is home to some of the best salt water fly fishing in the world and me and my dad went to catch bonefish, Permit, and Tarpon.  Catching bonefish really wasn't a hard task, but targeting fish like Permit and Tarpon takes a great amount of skill and a little bit of luck as well.  One day you could see hundreds of these fish and no matter how close you get the lure to their face they won't even acknowledge it, yet on another day you might see just one and that one could be the fish that bites.  For days on end I tracked and took shots at these fish, but it wasn't until the second to last day that I succesfully landed a Permit.  I plan on going back here in order to catch a tarpon in the future.</p>
   </body>
   <h2 id="my_anchor"></h2>
   <img src="https://static1.squarespace.com/static/5537be30e4b00d4e6007419c/5b23f345aa4a993296790332/5b23f3458a922d64d9afbf21/1529082757141/sea-pines-lighthouse.jpg?format=1000w">
   <body>
+    <head>
+      <H3>Hilton Head</h3>
+    </head>
     <p>The last place that I would consider to be one of my favorite places that I have ever visited is Hilton Head Island.  I grew up going to Hilton Head after my family purchased a house on the island.  I spent the entire summer there as a kid up until I was about 10 or 11.  After that I still made frequent trips there with my friends and family if our schedueles allowed it.  These days I manage to get to the island once or twice a year with friends and enjoy everything the island has to offer.  Chilling on the beach, swimming in the ocean, and eating good food take up most of my time spent on the island.  I'm not one to sit around at the beach so I like to dig holes or swim to keep me occupied.  Then during the nights I like to go to some of my favorite restaurants like Truffles or Crazy Crab.  Then after dinners I always like to make my way to my favorite ice cream place: Cinnamon Bear.  The memories I have made on Hilton Head make it one of my favorite places that I have ever visited and plan to keep visiting.</p>
  </body>
  <table style="width:100%">
