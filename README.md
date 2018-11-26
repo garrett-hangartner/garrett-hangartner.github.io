@@ -4,7 +4,7 @@
     <H1>Favorite Places I Have Visited</h1>
   </head>
   <a href="#my_anchor">All-Time Favorite Place</a>
-  <img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwj2nOPS__DeAhWHm-AKHdvoB3YQjRx6BAgBEAU&url=https%3A%2F%2Fwww.malmstrom.af.mil%2FNews%2FFeatures%2FDisplay%2FArticle%2F825520%2Fmontana-meandering-glacier-national-park%2F&psig=AOvVaw0siHeNIIrJHme34O5ikIbd&ust=1543285223348037>
+  <img src="https://www.maxpixel.net/static/photo/2x/Montana-Park-Glacier-National-Usa-America-2206963.jpg">
   <body>
     <head>
       <H3>Montana</h3>
