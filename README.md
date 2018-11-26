@@ -1,7 +1,7 @@
 # garrett-hangartner.github.io
 <html>
   <head>
-    <H1 ="background-color:powderblue;">Favorite Places I Have Visited</h1>
+    <H1>Favorite Places I Have Visited</h1>
   </head>
   <a href="#my_anchor">Go to the anchor</a>
   <img src="https://r3.whistleout.com/public/images/articles/2017/05/MONT.png">
