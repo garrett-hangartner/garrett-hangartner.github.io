@@ -1,10 +1,14 @@
 # garrett-hangartner.github.io
 <html>
     <head>
-         <style>
-    h1 {color: green;}
-  </style>
-        </head>
+<style>
+
+h1 {
+    color: green;
+    text-align: center;
+
+</style>
+</head>
     <body>
         <H1>Favorite Places I Have Visited</h1> 
     </body>
