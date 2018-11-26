@@ -16,7 +16,7 @@
     </head>
     <p>Another place that I visited that was truly amazing was Belize.  I have been to Belize the last two summers and both times I've gone I've been truly amazed by the beauty of the country and its people.  In Belize I stayed on two different islands way out in the middle of the ocean far away from the metropolitan area of Belize.  I stayed so far out in order to better my chances of finding what I went to the country for: fish.  Belize is home to some of the best salt water fly fishing in the world and me and my dad went to catch bonefish, Permit, and Tarpon.  Catching bonefish really wasn't a hard task, but targeting fish like Permit and Tarpon takes a great amount of skill and a little bit of luck as well.  One day you could see hundreds of these fish and no matter how close you get the lure to their face they won't even acknowledge it, yet on another day you might see just one and that one could be the fish that bites.  For days on end I tracked and took shots at these fish, but it wasn't until the second to last day that I succesfully landed a Permit.  I plan on going back here in order to catch a tarpon in the future.</p>
   <h2 id="my_anchor"></h2>
-  <img src="https://static1.squarespace.com/static/5537be30e4b00d4e6007419c/5b23f345aa4a993296790332/5b23f3458a922d64d9afbf21/1529082757141/sea-pines-lighthouse.jpg?format=1000w">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Harbour_Town_July_2007.jpg">
     <head>
       <H3>Hilton Head</h3>
     </head>
