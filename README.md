@@ -1,5 +1,6 @@
 # garrett-hangartner.github.io
 <html>
+    <head>
 <H1>Favorite Places I Have Visited</h1> 
     h1 {color: green;}
   </head>
