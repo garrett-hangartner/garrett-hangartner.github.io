@@ -24,13 +24,18 @@
     <th>Number of Times Visited</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td>Montana</td>
+    <td>Ski, Fish, Hike</td> 
+    <td>10</td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td>Belize</td>
+    <td>Fish, Swim, Adventure</td> 
+    <td>2</td>
+  </tr>
+   <tr
+  <td>Hilton Head</td>
+  <td>Swim, Enjoy the Beach, Eat</td>
+  <td>20+</td>
   </tr>
 </table>
