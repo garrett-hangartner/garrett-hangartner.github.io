@@ -33,7 +33,7 @@
     <td>Fish, Swim, Adventure</td> 
     <td>2</td>
   </tr>
-   <tr
+   <tr>
   <td>Hilton Head</td>
   <td>Swim, Enjoy the Beach, Eat</td>
   <td>20+</td>
