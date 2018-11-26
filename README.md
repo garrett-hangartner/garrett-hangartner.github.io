@@ -1,8 +1,7 @@
 # garrett-hangartner.github.io
 <html>
   <STYLE type= "text/css">
-P { color:green }
-  <head>
+  <head{ color:green }>
     <H1>Favorite Places I Have Visited</h1>
   </head>
   </STYLE>
