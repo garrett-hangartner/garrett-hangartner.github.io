@@ -1,10 +1,10 @@
 # garrett-hangartner.github.io
 <html>
-    <style>
     <head>
 <H1>Favorite Places I Have Visited</h1> 
+        </head>
+    <style>
     h1 {color: green;}
-  </head>
   </STYLE>
   <a href="#my_anchor">All-Time Favorite Place</a>
   <img src="https://www.maxpixel.net/static/photo/2x/Montana-Park-Glacier-National-Usa-America-2206963.jpg">
