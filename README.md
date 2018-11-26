@@ -3,7 +3,7 @@
     <head>
          <style>
     h1 {color: green;}
-  </STYLE>
+  </style>
         </head>
     <body>
         <H1>Favorite Places I Have Visited</h1> 
