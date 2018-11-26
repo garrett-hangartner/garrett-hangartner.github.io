@@ -2,10 +2,10 @@
 <html>
   <head>
     <canvas id="myCanvas" width="200" height="100" style="border:1px solid #000000;">
-    var c=document.getElementById("mycanvas");
-    var ctx=c.getContext("2d");
-    ctx.font="30px Arial";
-    ctx.strokeText("Hello World",10,50);
+    var c = document.getElementById("myCanvas");
+var ctx = c.getContext("2d");
+ctx.font = "30px Arial";
+ctx.fillText("Hello World", 10, 50);
     </canvas>
   </head>
   <a href="#my_anchor">All-Time Favorite Place</a>
