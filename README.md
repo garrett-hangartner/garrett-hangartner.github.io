@@ -1,11 +1,9 @@
 # garrett-hangartner.github.io
 <html>
   <head>
-    <canvas>
       <svg width="100" height="100">
   <circle cx="50" cy="50" r="40" stroke="green" stroke-width="4" fill="yellow" />
 </svg>
- </canvas>
   </head>
   <a href="#my_anchor">All-Time Favorite Place</a>
   <img src="https://www.maxpixel.net/static/photo/2x/Montana-Park-Glacier-National-Usa-America-2206963.jpg">
