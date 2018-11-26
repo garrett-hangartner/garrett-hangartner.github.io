@@ -1,7 +1,7 @@
 # garrett-hangartner.github.io
 <html>
     <head>
-<style>
+<style type="text/css">
 
 h1 {
     color: green;
