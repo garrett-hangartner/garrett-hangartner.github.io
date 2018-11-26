@@ -11,10 +11,9 @@ h1 {
 </head>
     <body>
         <H1>Favorite Places I Have Visited</h1> 
-    </body>
+
   <a href="#my_anchor">All-Time Favorite Place</a>
   <img src="https://www.maxpixel.net/static/photo/2x/Montana-Park-Glacier-National-Usa-America-2206963.jpg">
-  <body>
     <head>
       <H3>Montana</h3>
     </head>
